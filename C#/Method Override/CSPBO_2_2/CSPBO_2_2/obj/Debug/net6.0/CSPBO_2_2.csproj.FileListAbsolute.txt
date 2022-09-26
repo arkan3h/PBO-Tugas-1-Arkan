@@ -1,0 +1,15 @@
+C:\Users\arkan\source\repos\CSPBO_2_2\CSPBO_2_2\bin\Debug\net6.0\CSPBO_2_2.exe
+C:\Users\arkan\source\repos\CSPBO_2_2\CSPBO_2_2\bin\Debug\net6.0\CSPBO_2_2.deps.json
+C:\Users\arkan\source\repos\CSPBO_2_2\CSPBO_2_2\bin\Debug\net6.0\CSPBO_2_2.runtimeconfig.json
+C:\Users\arkan\source\repos\CSPBO_2_2\CSPBO_2_2\bin\Debug\net6.0\CSPBO_2_2.dll
+C:\Users\arkan\source\repos\CSPBO_2_2\CSPBO_2_2\bin\Debug\net6.0\CSPBO_2_2.pdb
+C:\Users\arkan\source\repos\CSPBO_2_2\CSPBO_2_2\obj\Debug\net6.0\CSPBO_2_2.csproj.AssemblyReference.cache
+C:\Users\arkan\source\repos\CSPBO_2_2\CSPBO_2_2\obj\Debug\net6.0\CSPBO_2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkan\source\repos\CSPBO_2_2\CSPBO_2_2\obj\Debug\net6.0\CSPBO_2_2.AssemblyInfoInputs.cache
+C:\Users\arkan\source\repos\CSPBO_2_2\CSPBO_2_2\obj\Debug\net6.0\CSPBO_2_2.AssemblyInfo.cs
+C:\Users\arkan\source\repos\CSPBO_2_2\CSPBO_2_2\obj\Debug\net6.0\CSPBO_2_2.csproj.CoreCompileInputs.cache
+C:\Users\arkan\source\repos\CSPBO_2_2\CSPBO_2_2\obj\Debug\net6.0\CSPBO_2_2.dll
+C:\Users\arkan\source\repos\CSPBO_2_2\CSPBO_2_2\obj\Debug\net6.0\refint\CSPBO_2_2.dll
+C:\Users\arkan\source\repos\CSPBO_2_2\CSPBO_2_2\obj\Debug\net6.0\CSPBO_2_2.pdb
+C:\Users\arkan\source\repos\CSPBO_2_2\CSPBO_2_2\obj\Debug\net6.0\CSPBO_2_2.genruntimeconfig.cache
+C:\Users\arkan\source\repos\CSPBO_2_2\CSPBO_2_2\obj\Debug\net6.0\ref\CSPBO_2_2.dll
