@@ -1,0 +1,8 @@
+﻿  CPPPBO_2_2.cpp
+C:\Users\arkan\source\repos\CPPPBO_2_2\CPPPBO_2_2\CPPPBO_2_2.cpp(104,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\arkan\source\repos\CPPPBO_2_2\CPPPBO_2_2\CPPPBO_2_2.cpp(116,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\arkan\source\repos\CPPPBO_2_2\CPPPBO_2_2\CPPPBO_2_2.cpp(128,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\arkan\source\repos\CPPPBO_2_2\CPPPBO_2_2\CPPPBO_2_2.cpp(131,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\arkan\source\repos\CPPPBO_2_2\CPPPBO_2_2\CPPPBO_2_2.cpp(143,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\arkan\source\repos\CPPPBO_2_2\CPPPBO_2_2\CPPPBO_2_2.cpp(146,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  CPPPBO_2_2.vcxproj -> C:\Users\arkan\source\repos\CPPPBO_2_2\x64\Debug\CPPPBO_2_2.exe
