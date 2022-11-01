@@ -1,5 +1,5 @@
 # PBO Tugas 1
-Inheritance, Method Overriding, dan Polymorphisme dalam C#, Python, dan
+Inheritance, Method Overriding, dan Polymorphisme dalam C#, C++, dan Python
 
 Nama  : Arkan Mahardika\
 Kelas : SI 2021B\
